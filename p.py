@@ -1,1 +1,1 @@
-print("Hello!! This is a python program integrating with jenkins")
+print("Hello!! This is a python program integrating github and jenkins")
